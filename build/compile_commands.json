@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\Model\\RubiksCube.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/Model/RubiksCube.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\main.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\main.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/main.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube3dArray.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\Model\\RubiksCube3dArray.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/Model/RubiksCube3dArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube3dArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube1dArray.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\Model\\RubiksCube1dArray.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/Model/RubiksCube1dArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube1dArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCubeBitboard.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\Model\\RubiksCubeBitboard.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/Model/RubiksCubeBitboard.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCubeBitboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\NibbleArray.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\PatternDatabases\\NibbleArray.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/PatternDatabases/NibbleArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/NibbleArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\PatternDatabase.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\PatternDatabases\\PatternDatabase.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/PatternDatabases/PatternDatabase.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/PatternDatabase.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\CornerPatternDatabase.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\PatternDatabases\\CornerPatternDatabase.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/PatternDatabases/CornerPatternDatabase.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerPatternDatabase.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\CornerDBMaker.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\PatternDatabases\\CornerDBMaker.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/PatternDatabases/CornerDBMaker.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerDBMaker.cpp.obj"
+},
+{
+  "directory": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\math.cpp.obj -c C:\\Users\\hkrai\\Downloads\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main-main\\rubiks-cube-solver-main\\PatternDatabases\\math.cpp",
+  "file": "C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/rubiks-cube-solver-main/PatternDatabases/math.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/math.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build/CMakeFiles/rubiks_cube_solver.dir
+C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build/CMakeFiles/edit_cache.dir
+C:/Users/hkrai/Downloads/rubiks-cube-solver-main-main/rubiks-cube-solver-main-main/build/CMakeFiles/rebuild_cache.dir
